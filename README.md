@@ -66,6 +66,8 @@ python test_chess.py
 |--------------|------------------------------------------------|
 | King, D5     | C4, C5, C6, D4, D6, E4, E5, E6                 |
 | Pawn, G1     | G2                                             |
-| Queen, E4    | All valid horizontal, vertical, diagonal moves |
+| Queen, E4    | D3, C2, B1, D4, C4, B4, A4, D5, C6, B7, A8,    |
+|              | E3, E2, E1, E5, E6, E7, E8, F3, G2, H1, F4,    |
+|              | G4, H4, F5, G6, H7                             |
 
 ---
